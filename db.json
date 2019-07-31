@@ -23,23 +23,5 @@
         "name": "Korean Kimchi",        
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Yeolmukimchi_3.jpg",
         "foodDescription": "Traditional Korean Food"
-    },
-    {
-        "key": "598a688878fee204ee51cd31",
-        "name": "Multiple salad",     
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Salad_platter.jpg",   
-        "foodDescription": "Salad mixed with mushroom"
-    },
-    {
-        "key": "598a68b778fee204ee51cd32",
-        "name": "Vegetable",   
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Vegetable_Cart_in_Guntur.jpg",     
-        "foodDescription": "Fresh vegetables"
-    },
-    {
-        "key": "598a67c478fee204ee51cd2d",
-        "name": "traditional japanese salad",  
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Simple_somen.jpg",      
-        "foodDescription": "Very delicious Japanese Salad"
     }
 ]}
